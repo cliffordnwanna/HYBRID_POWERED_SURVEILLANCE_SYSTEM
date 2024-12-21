@@ -1,5 +1,7 @@
 # HYBRID POWERED SURVEILLANCE SYSTEM
 
+![Hybrid-Powered Surveillance System](MEDIA/image_04.jpg)
+
 ## Overview
 This project is a solar-powered surveillance system designed to enhance examination monitoring by integrating:
 - Autonomous navigation
