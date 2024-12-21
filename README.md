@@ -1,4 +1,4 @@
-# HYBRID_POWERED_SURVEILLANCE_SYSTEM
+# HYBRID POWERED SURVEILLANCE SYSTEM
 
 ## Overview
 This project is a solar-powered surveillance system designed to enhance examination monitoring by integrating:
